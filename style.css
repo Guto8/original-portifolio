@@ -35,6 +35,8 @@ h1{
     border-top: 9px;
     padding: 29px;
     text-align: center;
+    background-color: black;
+    color: antiquewhite;
 }
 .imagem{
     width: 25vw;
